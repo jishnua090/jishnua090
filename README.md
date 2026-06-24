@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/jishnu-a--">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jishnua030@gmail.com">
+  <a href="mailto:jishnua090@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Kozhikode%2C_India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -50,11 +50,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jishnua030&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jishnua090&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=jishnua030&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jishnua090&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnua030&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnua090&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -83,12 +83,12 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/jishnu-a--](https://linkedin.com/in/jishnu-a--)
-- 📧 Email: [jishnua030@gmail.com](mailto:jishnua030@gmail.com)
+- 📧 Email: [jishnua090@gmail.com](mailto:jishnua090@gmail.com)
 
 ---
 
 <div align="center">
   <em>"Security is not a product, but a process." – Bruce Schneier</em>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=jishnua030&color=00ff00&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jishnua090&color=00ff00&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
